@@ -1,2 +1,2 @@
 # big-go-examples
-go notes
+golang notes
